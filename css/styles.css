@@ -1,0 +1,88 @@
+body {
+    font-family: "Roboto", sans-serif;
+    color: #2E2F42;
+    font-size: 16px;
+    line-height: 1.5;
+    background-color: #ffffff;
+}
+ul, ol {
+    list-style: none
+    
+    
+    
+}
+.logo {
+    color:#4D5AE5;
+    font-size: 18px;
+
+
+}
+.full-logo {
+    font-size: 18px;
+    color:#2E2F42;
+    font-family: Raleway;
+
+
+}
+a {
+    text-decoration: none;
+}
+.nav a {
+    font-size: 16px;
+    color: #2E2F42;
+
+}
+.description a {
+    color: #434455;
+}
+.logo-name {
+    color: #ffffff;
+    background-color: #2E2F42;
+}
+.button-style {
+    background-color: #4D5AE5;
+    color: #ffffff;
+    cursor: pointer;
+}
+.our-advanteges h3 {
+    font-size: 20px;
+
+}
+.our-advanteges p {
+    color:#434455; 
+}
+.section-team {
+    background-color: #F4F4FD;
+} 
+
+.section-team h2 {
+    font-size: 36px;
+}
+
+.tag-name h3 {
+font-size: 20px;
+}
+
+.tag-name p {
+    color:#434455;
+}
+
+.tag-portfolio h2 {
+    font-size: 36px;
+}
+ .tag-portfolio h3 {
+    font-size:20px;
+}
+.tag-portfolio p {
+    color: #434455;
+}
+.footer  {
+    background-color: #2E2F42;
+    font-family: Raleway; 
+}
+.footer p {
+    color:#F4F4FD;
+}
+.logofooter {
+    color:#ffffff;
+}

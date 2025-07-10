@@ -4,54 +4,85 @@ body {
     font-size: 16px;
     line-height: 1.5;
     background-color: #ffffff;
-    
-}
+    }
+
 ul, ol {
     list-style: none
-    
-    
-    
-}
+    }
+
 .logo {
     color:#4D5AE5;
     font-size: 18px;
-
-
 }
+
 .full-logo {
     font-size: 18px;
-    color:#2E2F42;
-    font-family: Raleway;
-
-
+    color:#4d5ae5;
+    font-family: "Raleway", sans-serif; 
+    font-weight: 700; 
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
 }
+
+.studio-color {
+    color: #2E2F42;
+}
+
 a {
     text-decoration: none;
 }
-.nav a {
-    font-size: 16px;
-    color: #2E2F42;
 
+.nav a {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
 }
+
+.nav :hover {
+    color: #404bbf;
+}
+
+.nav :focus {
+    color:#404bbf;
+}
+
 .description a {
     color: #434455;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
+.description :hover {
+    color:#404bbf;
+}
+.description :focus {
+    color:#404bbf;
+}
+
+
 .logo-name {
     color: #ffffff;
     background-color: #2E2F42;
 }
+
 .button-style {
     background-color: #4D5AE5;
     color: #ffffff;
     cursor: pointer;
 }
+
 .our-advanteges h3 {
     font-size: 20px;
-
 }
+
 .our-advanteges p {
     color:#434455; 
 }
+
 .section-team {
     background-color: #F4F4FD;
 } 
@@ -71,19 +102,24 @@ font-size: 20px;
 .tag-portfolio h2 {
     font-size: 36px;
 }
+
  .tag-portfolio h3 {
     font-size:20px;
 }
+
 .tag-portfolio p {
     color: #434455;
 }
+
 .footer  {
     background-color: #2E2F42;
     font-family: Raleway; 
 }
+
 .footer p {
     color:#F4F4FD;
 }
+
 .logofooter {
     color:#ffffff;
 }

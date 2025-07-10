@@ -46,6 +46,22 @@ a {
     color: #404bbf;
 }
 
+.nav-list-two {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+
+.nav-list-three {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+
 .mail  {
     color: #434455;
     font-style: normal;
@@ -88,19 +104,14 @@ a {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
-}
-
-.button-style {
     font-family: "Roboto", sans-serif;
 }
 
-.button-style :hover {
+.button-style:hover,
+.button-style:focus {
     background-color: #404BBF;
 }
 
-.button-style :focus {
-    background-color: #404BBF;
-}
 
 .titles h3 {
     font-size: 20px;

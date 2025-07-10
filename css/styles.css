@@ -74,47 +74,97 @@ a {
 .logo-name {
     color: #ffffff;
     background-color: #2E2F42;
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
 }
 
 .button-style {
     background-color: #4D5AE5;
     color: #ffffff;
     cursor: pointer;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
 }
 
-.our-advanteges h3 {
+.button-style :hover {
+    background-color: #404BBF;
+}
+
+.button-style :focus {
+    background-color: #404BBF;
+}
+
+.tittles {
     font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+
 }
 
-.our-advanteges p {
-    color:#434455; 
+.tittles p {
+    color:#2e2f42; 
+    letter-spacing: 0.02em; 
 }
 
 .section-team {
     background-color: #F4F4FD;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42; 
 } 
 
 .section-team h2 {
     font-size: 36px;
+    
 }
 
-.tag-name h3 {
+.tag-name {
 font-size: 20px;
+background-color: #FFFFFF;
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color:#2e2f42; 
 }
 
 .tag-name p {
     color:#434455;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+
+    
 }
 
 .tag-portfolio h2 {
     font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
 }
 
- .tag-portfolio h3 {
-    font-size:20px;
+.portfolioadds h3 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42; 
 }
-
-.tag-portfolio p {
+.portfolioadds p {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
     color: #434455;
 }
 
@@ -122,9 +172,13 @@ font-size: 20px;
     background-color: #2E2F42;
     font-family: Raleway; 
 }
+.studio-color-two {
+    color: #f4f4fd; 
+}
 
 .footer p {
     color:#F4F4FD;
+    letter-spacing: 0.02em;
 }
 
 .logofooter {

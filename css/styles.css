@@ -26,7 +26,7 @@ ul, ol {
 }
 
 .studio-color {
-    color: #2E2F42;
+    color: #2e2f42;
 }
 
 a {
@@ -71,7 +71,7 @@ a {
     color: #404bbf;
 }
 
-.logo-name {
+.logo-name h1 {
     color: #ffffff;
     background-color: #2E2F42;
     font-size: 56px;
@@ -90,6 +90,10 @@ a {
     letter-spacing: 0.04em;
 }
 
+.button-style {
+    font-family: "Roboto", sans-serif;
+}
+
 .button-style :hover {
     background-color: #404BBF;
 }
@@ -98,7 +102,7 @@ a {
     background-color: #404BBF;
 }
 
-.tittles {
+.titles h3 {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
@@ -112,21 +116,17 @@ a {
     letter-spacing: 0.02em; 
 }
 
-.section-team {
+.section-team h2 {
     background-color: #F4F4FD;
     line-height: 1.11;
     text-align: center;
-    letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42; 
+    letter-spacing: 0.02em;
+    font-size: 36px;
 } 
 
-.section-team h2 {
-    font-size: 36px;
-    
-}
-
-.tag-name {
+.firstman h3 {
 font-size: 20px;
 background-color: #FFFFFF;
 font-weight: 500;
@@ -136,14 +136,66 @@ letter-spacing: 0.02em;
 color:#2e2f42; 
 }
 
-.tag-name p {
+.firstman p {
     color:#434455;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 0.02em;
-
-    
+    letter-spacing: 0.02em;    
 }
+
+.twoman h3 {
+    font-size: 20px;
+    background-color: #FFFFFF;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.twoman p {
+    color: #434455;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;   
+}
+
+.threeman h3 {
+    font-size: 20px;
+    background-color: #FFFFFF;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.threeman p {
+    color: #434455;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+.fourman h3 {
+    font-size: 20px;
+    background-color: #FFFFFF;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.fourman p {
+    color: #434455;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+
+
 
 .tag-portfolio h2 {
     font-size: 36px;

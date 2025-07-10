@@ -41,13 +41,11 @@ a {
     color: #2E2F42;
 }
 
-.nav :hover {
+.nav :hover,
+.nav :focus {
     color: #404bbf;
 }
 
-.nav :focus {
-    color:#404bbf;
-}
 .nav-list-two {
     font-weight: 500;
         font-size: 16px;
@@ -63,6 +61,7 @@ a {
         color: #2E2F42;
 }
 
+
 .mail  {
     color: #434455;
     font-style: normal;
@@ -70,21 +69,23 @@ a {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
+
 .telephone {
     color: #434455;
-        font-style: normal;
-        font-size: 16px;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
 
+.description {
+    font-style: normal;
 }
-.description :hover {
-    color:#404bbf;
-}
+
+.description :hover,
 .description :focus {
-    color:#404bbf;
+    color: #404bbf;
 }
-
 
 .logo-name {
     color: #ffffff;

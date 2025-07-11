@@ -141,32 +141,31 @@ a {
 /* секція три */
 .section-team {
     background-color: #F4F4FD;
-
 }
 
 .tag-name {
     background-color: #FFFFFF
 }
 
-.section-team h2 {
+.section-team {
     font-weight: 700;
     font-size: 36px;
     line-height: 1.1;
     letter-spacing: 0.02;
     color:#2E2F42;
     text-transform: capitalize;
+    text-align: center;
 }
 
-.firstman h3 {
+.firstman {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02;
     color: #2E2F42;
-
 }
 
-.firstman p {
+.firstman {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
@@ -174,16 +173,15 @@ a {
     color: #434455;
 }
 
-.twoman h3 {
+.twoman {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02;
     color: #2E2F42;
-
 }
 
-.twoman p {
+.twoman {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
@@ -191,16 +189,15 @@ a {
     color: #434455;
 }
 
-.threeman h3 {
+.threeman {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02;
     color: #2E2F42;
-
 }
 
-.threeman p {
+.threeman {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
@@ -208,16 +205,15 @@ a {
     color: #434455;
 }
 
-.fourman h3 {
+.fourman {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02;
     color: #2E2F42;
-
 }
 
-.fourman p {
+.fourman {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
@@ -228,7 +224,7 @@ a {
 /* кінець третьої секції */
 
 /* секція четверта */
-.tag-portfolio h2 {
+.tag-portfolio {
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
@@ -238,7 +234,7 @@ a {
     text-align: center;
 }
 
-.firstapp h3 {
+.firstapp {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -246,7 +242,7 @@ a {
     color: #2e2f42;
 }
 
-.firsttext p {
+.firsttext {
     font-weight: 400;
     font-size: 16px;
     line-height: 15;
@@ -254,7 +250,7 @@ a {
     color:#434455;
 }
 
-.twoapp h3 {
+.twoapp {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -262,7 +258,7 @@ a {
     color: #2e2f42;
 }
 
-.twotext p {
+.twotext {
     font-weight: 400;
     font-size: 16px;
     line-height: 15;
@@ -270,7 +266,7 @@ a {
     color: #434455;
 }
 
-.threeapp h3 {
+.threeapp {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -278,7 +274,7 @@ a {
     color: #2e2f42;
 }
 
-.threetext p {
+.threetext {
     font-weight: 400;
     font-size: 16px;
     line-height: 15;
@@ -286,7 +282,7 @@ a {
     color: #434455;
 }
 
-.fourapp h3 {
+.fourapp {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -294,7 +290,7 @@ a {
     color: #2e2f42;
 }
 
-.fourtext p {
+.fourtext {
     font-weight: 400;
     font-size: 16px;
     line-height: 15;
@@ -302,7 +298,7 @@ a {
     color: #434455;
 }
 
-.fiveapp h3 {
+.fiveapp {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -310,7 +306,7 @@ a {
     color: #2e2f42;
 }
 
-.fivetext p {
+.fivetext {
     font-weight: 400;
     font-size: 16px;
     line-height: 15;
@@ -318,7 +314,7 @@ a {
     color: #434455;
 }
 
-.sixapp h3 {
+.sixapp {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -326,7 +322,7 @@ a {
     color: #2e2f42;
 }
 
-.sixtext p {
+.sixtext {
     font-weight: 400;
     font-size: 16px;
     line-height: 15;

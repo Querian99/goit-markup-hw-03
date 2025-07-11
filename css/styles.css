@@ -92,9 +92,13 @@ a {
 /* кінець хедера */
 
 /* секція перша */
+
+.logo-name-color {
+    background-color:#2e2f42;
+}
+
 .logo-name {
     color: #ffffff;
-    background-color: #2e2f42;
     font-size: 56px;
     line-height: 1.07;
     text-align: center;

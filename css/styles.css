@@ -144,7 +144,11 @@ a {
 
 /* секція три */
 
+
 .section-team {
+    background-color: #F4F4FD;
+}
+.section-title {
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
@@ -153,6 +157,10 @@ a {
     text-transform: capitalize;
     text-align: center;
     background-color: #F4F4FD;
+}
+
+.section-team-list {
+    background-color: #FFFFFF;
 }
 
 .first-man {

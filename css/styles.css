@@ -185,113 +185,15 @@ a {
 /* кінець третьої секції */
 
 /* секція четверта */
-.tag-portfolio {
+.section-title-two {
     font-weight: 700;
-    font-size: 36px;
-    line-height: 1.11;
-    letter-spacing: 0.02;
-    color: #2E2F42;
-    text-transform: capitalize;
-    text-align: center;
+        font-size: 36px;
+        line-height: 1.11;
+        letter-spacing: 0.02em;
+        color: #2E2F42;
+        text-align: center;
+        text-transform: capitalize;
 }
-
-.firstapp {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02;
-    color: #2e2f42;
-}
-
-.firsttext {
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 15;
-    letter-spacing: 0.02;
-    color:#434455;
-}
-
-.twoapp {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02;
-    color: #2e2f42;
-}
-
-.twotext {
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 15;
-    letter-spacing: 0.02;
-    color: #434455;
-}
-
-.threeapp {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02;
-    color: #2e2f42;
-}
-
-.threetext {
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 15;
-    letter-spacing: 0.02;
-    color: #434455;
-}
-
-.fourapp {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02;
-    color: #2e2f42;
-}
-
-.fourtext {
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 15;
-    letter-spacing: 0.02;
-    color: #434455;
-}
-
-.fiveapp {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02;
-    color: #2e2f42;
-}
-
-.fivetext {
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 15;
-    letter-spacing: 0.02;
-    color: #434455;
-}
-
-.sixapp {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02;
-    color: #2e2f42;
-}
-
-.sixtext {
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 15;
-    letter-spacing: 0.02;
-    color: #434455;
-}
-
-/* кінець четвертої секції */
 
 /* мій футер */
 .footer {

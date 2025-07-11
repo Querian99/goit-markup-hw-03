@@ -159,9 +159,9 @@ a {
     background-color: #F4F4FD;
 }
 
-/* .section-team-list {
+.section-color {
     background-color: #FFFFFF;
-} */
+}
 
 .first-man {
     font-weight: 500;
@@ -169,7 +169,6 @@ a {
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2E2F42;
-    background-color: #FFFFFF;
 
 }
 
@@ -179,7 +178,7 @@ a {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
-    background-color: #FFFFFF;
+    
 }
 
 

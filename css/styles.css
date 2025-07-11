@@ -1,25 +1,27 @@
+/* мій хедер */
 body {
     font-family: "Roboto", sans-serif;
     color: #434455;
     font-size: 16px;
     line-height: 1.5;
     background-color: #ffffff;
-    }
+}
 
-ul, ol {
+ul,
+ol {
     list-style: none
-    }
+}
 
 .logo {
-    color:#4D5AE5;
+    color: #4D5AE5;
     font-size: 18px;
 }
 
 .full-logo {
     font-size: 18px;
-    color:#4d5ae5;
-    font-family: "Raleway", sans-serif; 
-    font-weight: 700; 
+    color: #4d5ae5;
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
@@ -62,7 +64,7 @@ a {
     color: #2E2F42;
 }
 
-.mail  {
+.mail {
     color: #434455;
     font-style: normal;
     font-size: 16px;
@@ -87,8 +89,10 @@ a {
     color: #404bbf;
 }
 
-/* секція 2 */
-.logo-name  {
+/* кінець хедера */
+
+/* секція перша */
+.logo-name {
     color: #ffffff;
     background-color: #2e2f42;
     font-size: 56px;
@@ -113,142 +117,9 @@ a {
     background-color: #404BBF;
 }
 
-.titles h3 {
-    font-size: 20px;
-    font-weight: 500;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
+/* кінець першої секції */
 
-}
-
-.tittles p {
-    color:#2e2f42; 
-    letter-spacing: 0.02em; 
-}
-
-/*  кінець 2 секції */
-.section-team h2 {
-    background-color: #F4F4FD;
-    line-height: 1.11;
-    text-align: center;
-    text-transform: capitalize;
-    color: #2e2f42; 
-    letter-spacing: 0.02em;
-    font-size: 36px;
-} 
-
-.firstman h3 {
-font-size: 20px;
-background-color: #FFFFFF;
-font-weight: 500;
-font-size: 20px;
-line-height: 1.2;
-letter-spacing: 0.02em;
-color:#2e2f42; 
-}
-
-.firstman p {
-    color:#434455;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;    
-}
-
-.twoman h3 {
-    font-size: 20px;
-    background-color: #FFFFFF;
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-}
-
-.twoman p {
-    color: #434455;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;   
-}
-
-.threeman h3 {
-    font-size: 20px;
-    background-color: #FFFFFF;
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-}
-
-.threeman p {
-    color: #434455;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-}
-
-.fourman h3 {
-    font-size: 20px;
-    background-color: #FFFFFF;
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-}
-
-.fourman p {
-    color: #434455;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-}
-
-
-
-
-.tag-portfolio h2 {
-    font-size: 36px;
-    line-height: 1.11;
-    text-align: center;
-    letter-spacing: 0.02em;
-    text-transform: capitalize;
-    color: #2e2f42;
-}
-
-.portfolioadds h3 {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2e2f42; 
-}
-.portfolioadds p {
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
-}
-
-.footer  {
-    background-color: #2E2F42;
-    font-family: Raleway; 
-}
-.studio-color-two {
-    color: #f4f4fd; 
-}
-
-.footer-text {
-    color:#F4F4FD;
-    letter-spacing: 0.02em;
-}
-
-.logofooter {
-    color:#ffffff;
-}
-
+/* секція два */
 .our-advantages-title {
     font-weight: 500;
     font-size: 20px;
@@ -264,3 +135,223 @@ color:#2e2f42;
     letter-spacing: 0.02em;
     color: #434455;
 }
+
+/* кінець другої секції */
+
+/* секція три */
+.section-team {
+    background-color: #F4F4FD;
+
+}
+
+.tag-name {
+    background-color: #FFFFFF
+}
+
+.section-team h2 {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.1;
+    letter-spacing: 0.02;
+    color:#2E2F42;
+    text-transform: capitalize;
+}
+
+.firstman h3 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02;
+    color: #2E2F42;
+
+}
+
+.firstman p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02;
+    color: #434455;
+}
+
+.twoman h3 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02;
+    color: #2E2F42;
+
+}
+
+.twoman p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02;
+    color: #434455;
+}
+
+.threeman h3 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02;
+    color: #2E2F42;
+
+}
+
+.threeman p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02;
+    color: #434455;
+}
+
+.fourman h3 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02;
+    color: #2E2F42;
+
+}
+
+.fourman p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02;
+    color: #434455;
+}
+
+/* кінець третьої секції */
+
+/* секція четверта */
+.tag-portfolio h2 {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02;
+    color: #2E2F42;
+    text-transform: capitalize;
+    text-align: center;
+}
+
+.firstapp h3 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02;
+    color: #2e2f42;
+}
+
+.firsttext p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 15;
+    letter-spacing: 0.02;
+    color:#434455;
+}
+
+.twoapp h3 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02;
+    color: #2e2f42;
+}
+
+.twotext p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 15;
+    letter-spacing: 0.02;
+    color: #434455;
+}
+
+.threeapp h3 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02;
+    color: #2e2f42;
+}
+
+.threetext p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 15;
+    letter-spacing: 0.02;
+    color: #434455;
+}
+
+.fourapp h3 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02;
+    color: #2e2f42;
+}
+
+.fourtext p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 15;
+    letter-spacing: 0.02;
+    color: #434455;
+}
+
+.fiveapp h3 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02;
+    color: #2e2f42;
+}
+
+.fivetext p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 15;
+    letter-spacing: 0.02;
+    color: #434455;
+}
+
+.sixapp h3 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02;
+    color: #2e2f42;
+}
+
+.sixtext p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 15;
+    letter-spacing: 0.02;
+    color: #434455;
+}
+
+/* кінець четвертої секції */
+
+/* мій футер */
+.footer {
+    background-color: #2E2F42;
+    font-family: Raleway;
+}
+
+.studio-color-two {
+    color: #f4f4fd;
+}
+
+.footer-text {
+    color: #F4F4FD;
+    letter-spacing: 0.02em;
+}
+
+.logofooter {
+    color: #ffffff;
+}
+/* кінець футера */

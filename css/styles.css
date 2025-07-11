@@ -140,11 +140,11 @@ a {
 
 /* секція три */
 
-.section-name {
+.section-team {
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
-    letter-spacing: 0.02;
+    letter-spacing: 0.02em;
     color:#2E2F42;
     text-transform: capitalize;
     text-align: center;
@@ -152,14 +152,14 @@ a {
 }
 
 .section-color {
-    background-color: #FFFFFF;
+    color:#FFFFFF;
 }
 
 .first-man {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
-    letter-spacing: 0.02;
+    letter-spacing: 0.02em;
     color: #2E2F42;
 }
 
@@ -167,57 +167,10 @@ a {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 0.02;
+    letter-spacing: 0.02em;
     color: #434455;
 }
 
-.two-man {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02;
-    color: #2E2F42;
-}
-
-.two-man-text {
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02;
-    color: #434455;
-}
-
-.three-man {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02;
-    color: #2E2F42;
-}
-
-.three-man-text {
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02;
-    color: #434455;
-}
-
-.four-man {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02;
-    color: #2E2F42;
-}
-
-.four-man-text {
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02;
-    color: #434455;
-}
 
 /* кінець третьої секції */
 

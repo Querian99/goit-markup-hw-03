@@ -5,6 +5,7 @@ body {
     font-size: 16px;
     line-height: 1.5;
     background-color: #ffffff;
+    
 }
 
 ul,
@@ -32,7 +33,6 @@ a {
 
 .nav-list-one {
     font-weight: 500;
-    font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2E2F42;
@@ -46,7 +46,6 @@ a {
 .mail {
     color: #434455;
     font-style: normal;
-    font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
@@ -104,8 +103,6 @@ a {
 }
 
 .our-advantages-text {
-    font-weight: 400;
-    font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
@@ -154,3 +151,5 @@ a {
 }
 
 /* кінець футера */
+
+

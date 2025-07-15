@@ -17,7 +17,6 @@ ol {
     font-size: 18px;
     color: #4d5ae5;
     font-family: "Raleway", sans-serif;
-    font-weight: 700;
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
@@ -116,7 +115,6 @@ a {
     background-color: #F4F4FD;
 }
 .section-title {
-    font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
@@ -148,6 +146,7 @@ a {
 .footer-text {
     color: #F4F4FD;
     letter-spacing: 0.02em;
+    font-family: "Roboto";
 }
 
 /* кінець футера */

@@ -78,6 +78,8 @@ align-items: center;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     margin-right: 76px;
+    padding: 24px 0;
+    
 }
 
 .studio-color-one {
@@ -88,7 +90,7 @@ align-items: center;
     display: flex;
     gap: 40px;
     margin-left: 76px;
-    padding: 24px 0;
+    
 }
 
 .nav-list-one {
@@ -162,7 +164,6 @@ border: 1px solid #000;
     min-height: 56px;
     padding:14px 32px;
     border-radius: 4px;
-    border: 1px solid #000;
     display: block;
     margin: 0 auto;
 }
@@ -209,7 +210,8 @@ border: 1px solid #000;
 
 .section-team {
     background-color: #F4F4FD;
-    padding-bottom: 120px;
+    padding: 120px 0;
+
 }
 
 .section-team-list {
@@ -247,7 +249,7 @@ border: 1px solid #000;
     letter-spacing: 0.02em;
     color:#2E2F42;
     text-align: center;
-    padding-top:120px;
+    padding-top: 120px;
     margin-bottom: 72px;
 }
 
@@ -262,6 +264,13 @@ border: 1px solid #000;
 /* кінець третьої секції */
 
 /* секція четверта */
+
+.list-app {
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+
+
 .portfolio-img {
     width: 360px;
     height: 300px;  
@@ -276,7 +285,7 @@ border: 1px solid #000;
 }
 
 .our-advantages-block {
-    padding-left: 16px;
+    padding: 32px 16px;
     border-bottom: 1px solid #E7E9FC;
     border-left: 1px solid #E7E9FC;
     border-right: 1px solid #E7E9FC;
@@ -294,7 +303,21 @@ padding-bottom: 100px;
 }
 
 .studio-color-two {
-    color: #f4f4fd;
+color: #f4f4fd;
+}
+
+.full-logo-down {
+display:inline-block;
+ margin-bottom: 16px;
+ font-size: 18px;
+font-weight: 700;
+color: #4d5ae5;
+font-family: "Raleway", sans-serif;
+line-height: 1.17;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+margin-right: 76px;
+
 }
 
 .footer-text {
@@ -302,7 +325,6 @@ padding-bottom: 100px;
     letter-spacing: 0.02em;
     font-family: "Roboto";
     width: 264px;
-    margin-top: 16px;
 }
 
 /* кінець футера */

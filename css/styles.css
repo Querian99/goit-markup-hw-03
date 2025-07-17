@@ -183,6 +183,15 @@ border: 1px solid #000;
     gap: 24px;
 }
 
+.our-advanteges {
+    padding: 120px 0;
+}
+
+
+.hiden-title {
+    visibility: hidden;
+}
+
 .our-advantages-title {
     margin-bottom: 8px;
     font-weight: 500;
@@ -191,7 +200,7 @@ border: 1px solid #000;
     letter-spacing: 0.02em;
     display: flex;
     flex-direction: column;
-    padding-top: 32px;
+    color: #2E2F42;
 }
 
 .our-advantages-text {
@@ -219,13 +228,16 @@ border: 1px solid #000;
     gap: 24px;
 }
 
+.name-and-prof {
+    padding: 32px 0;
+}
+
 .section-team-name {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    color: #2E2F42;
-    padding-top: 32px; 
+    color: #2E2F42; 
     margin-bottom: 8px; 
 }
 
@@ -240,7 +252,6 @@ border: 1px solid #000;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
-    padding-bottom: 32px;
 }
 
 .section-title {
@@ -249,7 +260,6 @@ border: 1px solid #000;
     letter-spacing: 0.02em;
     color:#2E2F42;
     text-align: center;
-    padding-top: 120px;
     margin-bottom: 72px;
 }
 
@@ -265,7 +275,7 @@ border: 1px solid #000;
 
 /* секція четверта */
 
-.list-app {
+.list-apps {
     padding-top: 120px;
     padding-bottom: 120px;
 }
@@ -280,8 +290,7 @@ border: 1px solid #000;
     display: flex;
     flex-wrap: wrap;
     gap: 24px;
-    row-gap: 48px;
-    margin-bottom: 120px; 
+    row-gap: 48px; 
 }
 
 .our-advantages-block {

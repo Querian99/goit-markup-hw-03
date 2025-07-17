@@ -98,6 +98,7 @@ align-items: center;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2E2F42;
+    padding: 24px 0;
 }
 
 .nav :hover,
@@ -187,8 +188,12 @@ border: 1px solid #000;
     padding: 120px 0;
 }
 
+.advantages-list-item {
+    width: calc((100% - 72px) / 4);
+}
 
-.hiden-title {
+
+.visually-hidden {
     visibility: hidden;
 }
 

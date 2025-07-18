@@ -54,10 +54,6 @@ a {
 
 /* мій хедер */
 
-.header {
-    border-bottom: 1px solid #e7e9fc;
-}
-
 .header-nav {
 display: flex;
 align-items: center;
@@ -89,7 +85,6 @@ align-items: center;
 .nav {
     display: flex;
     gap: 40px;
-    margin-left: 76px;
     
 }
 
@@ -222,7 +217,6 @@ border: 1px solid #000;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
-    padding-bottom: 32px;
     display: flex;
     flex-direction: column;
     gap: 8px
@@ -318,7 +312,6 @@ border: 1px solid #000;
 /* мій футер */
 .footer {
     background-color: #2E2F42;
-    font-family: Raleway;
 }
 
 .footer {

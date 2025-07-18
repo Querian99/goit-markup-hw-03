@@ -54,6 +54,11 @@ a {
 
 /* мій хедер */
 
+.header {
+    border-bottom: 1px solid #e7e9fc;
+}
+
+
 .header-nav {
 display: flex;
 align-items: center;
@@ -131,7 +136,6 @@ align-items: center;
 background-color:#2e2f42;
 padding-top: 188px;
 padding-bottom: 188px;
-border: 1px solid #000;
 }
 
 .logo-name {
